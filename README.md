@@ -1,2 +1,1 @@
-# introduction-to-java-script-and-ajax-
-my assignment
+# Introduction-to-js-and-ajax-assignemnt5
